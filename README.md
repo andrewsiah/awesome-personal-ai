@@ -6,7 +6,6 @@ collection of research papers and code for personalizing ai (llms)
 
 - [Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning](https://arxiv.org/abs/2408.10075)
 
-
 ## Datasets
 
 - [PersonalLLM: Tailoring LLMs to Individual Preferences](https://arxiv.org/abs/2409.20296)
@@ -19,3 +18,7 @@ collection of research papers and code for personalizing ai (llms)
 ## Code
 
 - [TRL](https://huggingface.co/docs/trl/en/index)
+
+## Surveys
+
+- [Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)
